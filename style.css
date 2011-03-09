@@ -3,28 +3,28 @@
 
 html {height: 100%}
 body {
-	font: 400 0.9em/1.6em Arial, Helvetica, sans-serif;
-	height: 100%;
-	margin: 0;
-	background: #FFCB99;
-	text-align: center;//for IE7
+  font: 400 0.9em/1.6em Arial, Helvetica, sans-serif;
+  height: 100%;
+  margin: 0;
+  background: #FFCB99;
+  text-align: center;//for IE7
 }
 h1 { color: #FF7E00 }
 div#wrapper {
-	background-color: white;
-	width: 720px;
-	margin: 0 auto;
-	height: 100%;
-	text-align: left;
+  background-color: white;
+  width: 720px;
+  margin: 0 auto;
+  height: 100%;
+  text-align: left;
 }
 #logo {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	padding-top: 25px;
-	padding-bottom: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 div#content {
-	padding-left: 30px;
-	padding-right: 45px;
+  padding-left: 30px;
+  padding-right: 45px;
 }
