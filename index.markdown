@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to Snocat.co.uk
 
-Unfortunately we have stopped selling snowboards and snowboard tuning gear. It was always a side-project and in the end we couldn't devote enough time to running a retail business alongside with our full-time jobs and increasingly long trips to the snow (or sun)!
+Unfortunately we have stopped selling snowboards and snowboard tuning gear. It was always a side-project and in the end we couldn't devote enough time to running a retail business alongside  our full-time jobs and increasingly long trips to the snow (or sun)!
 
 Snocat was started in 2002 by John and Jon Merrifield, with the idea of providing snowboard tuning gear alongside useful information on snowboard tuning. We hoped to empower snowboarders to maintain their own sticks instead of paying for half-assed tune ups by the local shop monkeys.
 
