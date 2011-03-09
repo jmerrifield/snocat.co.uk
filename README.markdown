@@ -1,0 +1,1 @@
+Static pages for <http://www.snocat.co.uk/>.
