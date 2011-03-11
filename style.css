@@ -3,13 +3,17 @@
 
 html {height: 100%}
 body {
-  font: 400 0.9em/1.6em Arial, Helvetica, sans-serif;
+  font: 400 0.9em/1.6em 'Helvetica Neue', Helvetica, sans-serif;
   height: 100%;
   margin: 0;
   background: #FFCB99;
   text-align: center;//for IE7
 }
-h1 { color: #FF7E00 }
+h1 { 
+  color: #FF7E00;
+  font-weight: 900;
+  font-size: 40px;
+}
 div#wrapper {
   background-color: white;
   width: 720px;
