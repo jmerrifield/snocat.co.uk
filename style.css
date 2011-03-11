@@ -25,6 +25,7 @@ div#wrapper {
   padding-bottom: 25px;
 }
 div#content {
+  background-color: white;
   padding-left: 30px;
   padding-right: 45px;
 }
