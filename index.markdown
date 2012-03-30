@@ -13,3 +13,4 @@ Since we stopped doing business in 2009, the website has been offline and the pr
 As time permits, we plan to restore some of the articles that used to be on the site, for those times when only a detailed discussion on edge angles will help you drift off to sleep.
 
 If you'd like to get in touch, you can email <john@johnmerrifield.com>. If you're actually looking for the homepage of John Merrifield, head over to [johnmerrifield.com](http://johnmerrifield.com).
+
